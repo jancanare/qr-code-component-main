@@ -1,5 +1,6 @@
 body {
   font-family: "Outfit", sans-serif;
+  padding: 2rem 0;
 }
 
 main {
@@ -9,7 +10,6 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 2rem 0;
 }
 
 article {
